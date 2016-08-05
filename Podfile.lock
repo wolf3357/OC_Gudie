@@ -1,0 +1,65 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AHKActionSheet (0.5.4)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - Masonry (1.0.1)
+  - MJRefresh (3.1.12)
+  - MLLabel (1.9.2)
+  - SDAutoLayout (2.0.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - SVProgressHUD (2.0.3)
+  - VTMagic (1.2.3):
+    - VTMagic/Core (= 1.2.3)
+  - VTMagic/Core (1.2.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.6)
+  - AHKActionSheet (~> 0.5.4)
+  - FMDB (~> 2.6.2)
+  - Masonry (~> 1.0.1)
+  - MJRefresh (~> 3.1.0)
+  - MLLabel (~> 1.9.1)
+  - SDAutoLayout (~> 2.0.0)
+  - SDWebImage (~> 3.7.6)
+  - SVProgressHUD (~> 2.0.3)
+  - VTMagic (~> 1.2.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  AHKActionSheet: f0b312b5c689f72924d231c39dae140ecd5c1d46
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  MLLabel: df58127ce0bd1f87890ecc3232db77a85ce4cd97
+  SDAutoLayout: ae98d238e4721c1566abec57bcb2fa1fbe62a0df
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  VTMagic: c69c1dd7481e0f3f4c0b2a6f27803dde55455c96
+
+PODFILE CHECKSUM: 1578c87474fcf333db1a172ef804bd50309e0e2e
+
+COCOAPODS: 1.0.1
